@@ -1,0 +1,20 @@
+body {
+    background-image: url('https://i.pinimg.com/564x/15/61/f9/1561f99be54e923074bfba9fb7d3c188.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    color: white; 
+    margin: 0;
+    padding: 3%;
+    border: 4px solid black;
+  text-align: center;
+}
+h2 {
+    background-color: #C1BBDD;
+    color: black
+    padding: 1%;
+    border: 4px solid #A8A1B8; /* Adjusted border color */
+    border-radius: 20px;
+}
+
+
